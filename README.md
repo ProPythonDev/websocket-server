@@ -125,7 +125,3 @@ send_message: send some text or binary data to the client endpoint
  - sending data as a bytearray object will send a BINARY frame
 
 close: send close frame to endpoint
-
-### Licensing
-
-MIT
